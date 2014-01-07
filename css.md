@@ -1,4 +1,4 @@
-# Tamrt.com 样式规范
+# Tamrt 样式规范
 
 ---
 
