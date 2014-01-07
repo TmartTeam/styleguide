@@ -27,10 +27,22 @@
   </td></tr><tr><td> JS组件相关样式库 </td><td style="text-align: left"> /css/ui
   </td></tr></tbody>
   </table>
-  * [/css/core/rest.css]
-  * [/css/core/bottons.css]
-  * [/css/core/forms.css]
-  * [/css/core/color.css]
-  * [/css/core/alert.css]
-  * [/css/core/navigation.css]
+  <table width="300" style="margin-left:60px;">
+  <tbody>
+  <tr>
+  <td> /css/core <br>
+  [参考github文件命名](https://github.com/styleguide/css)</td>
+  <td style="text-align: left"> 
+* [rest.css]
+* [bottons.css](https://github.com/styleguide/css/1.0)
+* [forms.css](https://github.com/styleguide/css/2.0)
+* [color.css](https://github.com/styleguide/css/11.0)
+* [alert.css](https://github.com/styleguide/css/15.0)
+* [navigation.css](https://github.com/styleguide/css/8.0)
+  </td>
+  </tr><tr><td> 通用UI元素样式库 </td><td style="text-align: left"> /css/lib
+  </td></tr><tr><td> JS组件相关样式库 </td><td style="text-align: left"> /css/ui
+  </td></tr></tbody>
+  </table>
+ 
   
